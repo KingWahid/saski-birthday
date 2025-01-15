@@ -2,6 +2,10 @@
 body {
     background-color: #201457;
   }
+
+  .song {
+    visibility: hidden;
+  }
   
   h1 {
     position: fixed;
